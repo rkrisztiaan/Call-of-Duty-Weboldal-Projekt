@@ -10,7 +10,7 @@
 ## 👥 Csapat
 
 - Rostási Krisztián – Navbar, Főoldal, CSS, Játékok oldal
-- Tóth Barnabás – Karakterek oldal,  Kapcsolat oldal, Képek keresése
+- Tóth Barnabás – Karakterek oldal,  Kapcsolat oldal, Fegyverek oldal, Képek keresése
 
 ## 📌 Megjegyzés
 
