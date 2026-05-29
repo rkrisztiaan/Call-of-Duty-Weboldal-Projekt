@@ -6,6 +6,7 @@
 - Játékok – COD játékok bemutatása
 - Karakterek – ismert karakterek
 - Kapcsolat – kapcsolatfelvételi űrlap
+- Fegyverek - ismert fegyverek
 
 ## 👥 Csapat
 
